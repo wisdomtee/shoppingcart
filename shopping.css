@@ -1,0 +1,19 @@
+.item {
+    margin-bottom: 10px;
+  }
+  
+  .quantity-btn {
+    cursor: pointer;
+  }
+  
+  .like-btn {
+    cursor: pointer;
+    border: none;
+    background: none;
+    font-size: 20px;
+  }
+  
+  .like-btn.liked {
+    color: red;
+  }
+  
